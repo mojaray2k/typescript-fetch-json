@@ -1,0 +1,23 @@
+{
+  "name": "typescript-fetch-json",
+  "version": "1.0.0",
+  "description": "A small typescript app to fetch todo's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojaray2k/typescript-fetch-json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojaray2k/typescript-fetch-json/issues"
+  },
+  "homepage": "https://github.com/mojaray2k/typescript-fetch-json#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
